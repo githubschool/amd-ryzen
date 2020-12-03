@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to jared-sanders' slide!"
 ---
 
 This is a caption!
